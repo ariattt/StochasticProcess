@@ -1,5 +1,6 @@
 import markov362m as mk
 
+#This is the coding part for HW5, 9.3.10, a zoologist, Dr. Gurkensaft
 madRat = mk.MarkovChain(title = "Crazy Dumb Rat")
 madRat.add_state("1")
 madRat.add_state("2")

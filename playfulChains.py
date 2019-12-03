@@ -1,5 +1,7 @@
 import markov362m as mk
 
+#This is the coding part of HW4
+
 m11 = mk.MarkovChain(title = "7.4.11")
 m11.add_state("2,0")
 m11.add_state("0,2")
